@@ -1,6 +1,6 @@
 # Resumo
 
-O Projeto ToDo List tem como finalidade a prática de manipulação de CSS com JavaScript puro através de eventos.
+O Projeto ToDo List tem como finalidade a prática de manipulação de CSS nas tarefas, com JavaScript puro através de eventos.
 
 ___
 
