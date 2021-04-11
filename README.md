@@ -11,7 +11,7 @@ Após a criação das tarefas, você pode fazer uma multi-seleção nas tarefas,
 Realizando um clique duplo na tarefa você dá a ela o status de finalizada.
 Através de uma tarefa finalizada ou selecionada, você pode apagár as tarefas respectivamente através dos botões:
 * <strong>Apagar Completos</strong>
-* <strong>Apagar Selecinado</strong>
+* <strong>Apagar Selecionado</strong>
 
 Há também a possibilidade de limpar toda a lista, clicando no botão
 * <strong>Apagar Tudo</strong>
